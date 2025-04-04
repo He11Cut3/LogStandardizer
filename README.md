@@ -1,7 +1,7 @@
 # LogStandardizer
 
 ![Static Badge](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)
-![Static Badge](https://img.shields.io/badge/.NET-6.0-purple)
+![Static Badge](https://img.shields.io/badge/.NET-8.0-purple)
 
 Консольное приложение для стандартизации лог-файлов, преобразующее записи разных форматов в единую структурированную форму.
 

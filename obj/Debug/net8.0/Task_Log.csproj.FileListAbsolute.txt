@@ -1,0 +1,14 @@
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\bin\Debug\net8.0\Task_Log.exe
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\bin\Debug\net8.0\Task_Log.deps.json
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\bin\Debug\net8.0\Task_Log.runtimeconfig.json
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\bin\Debug\net8.0\Task_Log.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\bin\Debug\net8.0\Task_Log.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.AssemblyInfoInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.AssemblyInfo.cs
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.csproj.CoreCompileInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\refint\Task_Log.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\Task_Log.genruntimeconfig.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Log\obj\Debug\net8.0\ref\Task_Log.dll
